@@ -48,21 +48,3 @@ This project demonstrates the application of Convolutional Neural Networks (CNNs
 - **Deep Learning Implementation:**  
   Constructs and trains CNN models to process images and control steering, simulating the decision-making process of an autonomous vehicle.
 
-### How to Run
-1. Navigate to the self-driving car project directory:
-    ```bash
-    cd self-driving-car
-    ```
-2. Open the Jupyter Notebook provided in the directory (e.g., `self_driving_car.ipynb`) using Jupyter:
-    ```bash
-    jupyter notebook self_driving_car.ipynb
-    ```
-3. Follow the instructions within the notebook to run simulations and explore the underlying CNN models.
-
----
-
-## Contributing
-Contributions to either project are welcome. Please fork this repository and submit pull requests with your enhancements or bug fixes.
-
-## License
-[Specify your license information here, e.g., MIT License]
